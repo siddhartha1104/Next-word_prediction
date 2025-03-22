@@ -62,7 +62,3 @@ Follow these steps to run the project on your machine:
 - TensorFlow/Keras (for deep learning)
 - Streamlit (for web deployment)
 - Natural Language Processing (NLP) techniques
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
